@@ -3,8 +3,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 For a more visually pleasant experience for browsing the portfolio, check out [lundgrensimon.com](https://www.lundgrensimon.com/).
 
-The R portfolio is located here.
-
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
 # Contents
