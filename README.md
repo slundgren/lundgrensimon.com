@@ -20,3 +20,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 * Data Cleaning
   * __Python__
     * [Data Cleaning ](https://github.com/slundgren/lundgrensimon.com/blob/main/Data_Cleaning_Python.ipynb): We are going to apply different techniques to clean and prepare the data in order to do some data analysis and data visualization.
+* Web scraping
+  * __Python__
+    * [Scraping weekly streaming data from Spotify ](https://github.com/slundgren/lundgrensimon.com/blob/main/Python/Spotify_web_scraping.ipynb): We are going to scrape and append weekly streaming data from https://spotifycharts.com/regional to a CSV which easily can be read and visualized in e.g. Tableau or Power BI.
